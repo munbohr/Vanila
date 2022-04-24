@@ -1,2 +1,0 @@
-# Vanila
-operationName: Vanila JS
